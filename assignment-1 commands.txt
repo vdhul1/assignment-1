@@ -1,0 +1,14 @@
+https://github.com/vdhul1/assignment-1.git
+
+git init
+git remote add origin https://github.com/vdhul1/assignment-1.git
+git remote
+nano code.txt
+nano log.txt
+nano output.txt
+ls
+git status
+git add .
+git status
+git commit -m "committing all files"
+git push origin master
